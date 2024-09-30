@@ -10,3 +10,5 @@ mydict = {
         "designation": "SSE"
     }
 }
+
+#now we'll access this with loop
